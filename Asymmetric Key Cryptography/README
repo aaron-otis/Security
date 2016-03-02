@@ -1,0 +1,4 @@
+dh.py requires the aes module from Symmetric Key Cryptography. Make a link
+to it with the command
+
+ln -s ../Symmetric\ Key\ Cryptography/aes.py
